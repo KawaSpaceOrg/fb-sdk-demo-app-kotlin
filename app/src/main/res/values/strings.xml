@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Client App (Kotlin)</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoibWlsaW5ka3VkYWxlIiwiYSI6ImNreGEwaThwcDA3YmwyeHBnY3d5aWthMW0ifQ.2TPRBopI5tLwJ54rec2w7w</string>
+    <string name="smartlook_api_key" translatable="false">627da9d9178be1e4d7e3b5e54404d34f3bbf1877</string>
+    <string name="segment_api_key" translatable="false">GAbwPlNAE35c24uixpeWtIgekKSw34c4</string>
+
+</resources>
